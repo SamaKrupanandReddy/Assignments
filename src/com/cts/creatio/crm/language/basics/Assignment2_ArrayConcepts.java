@@ -1,6 +1,6 @@
 package com.cts.creatio.crm.language.basics;
 
-public class ArrayConcepts {
+public class Assignment2_ArrayConcepts {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
